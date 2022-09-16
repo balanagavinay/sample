@@ -3,3 +3,6 @@
 1.bala
 2.naga
 3.vinay
+
+1.int
+2. float
