@@ -5,4 +5,3 @@
 3.vinay
 
 1.int
-2. float
